@@ -158,7 +158,7 @@ Commit both the `.gitlab-ci.yml` and `vue.config.js` files before pushing to you
 
 ### Netlify
 
-1. On Netlify, setup up a new project from GitHub with the following settings:
+1. On Netlify, setup a new project from GitHub with the following settings:
 
     - **Build Command:** `npm run build` or `yarn build`
     - **Publish directory:** `dist`
